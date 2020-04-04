@@ -1,0 +1,17 @@
+{
+  "name": "bower-package",
+  "homepage": "https://github.com/ngoctho-hust/bower-package",
+  "authors": [
+    "ngoctho-hust <ngoctho.t1k54@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
